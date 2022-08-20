@@ -1,0 +1,33 @@
+.button1 {
+    height: 2em;
+    width: 10em;
+    color: aqua;
+    border-radius: 10rem;
+    border-color: aqua;
+    display: block;
+    margin-bottom: 1em;
+    font-weight: bold;
+    font-size: 1em;
+}
+.button2 {
+    height: 2em;
+    width: 2em;
+    color: white;
+    border-radius: 50%;
+    border-color: darkturquoise;
+    background-color: darkturquoise;
+    display: block;
+    font-weight: bold;
+    font-size: 1em;
+    margin-bottom: 1em;
+}
+.button3 {
+    height: 3em;
+    width: 12em; 
+    color: white;
+    box-shadow: 0.5em 0.5em  black;
+    text-align: center;
+    font-size: 0.8em;
+    background-color: dodgerblue;
+    display: block;
+}
